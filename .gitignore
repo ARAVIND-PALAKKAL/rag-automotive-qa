@@ -1,0 +1,8 @@
+venv/
+vectorstore/
+docs/
+__pycache__/
+*.pyc
+.env
+results.json
+results.csv
